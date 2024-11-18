@@ -149,7 +149,6 @@ function App() {
               <h3 className="font-semibold text-lg mb-4">Contact</h3>
               <div className="space-y-2">
                 <p>hello@nutbrew.xyz</p>
-                <p>(503) 555-0123</p>
               </div>
             </div>
             <div>
